@@ -41,7 +41,7 @@ header {
   background-color: #dcf9ca;
   border-radius: 50%;
   width:70px;
-  height: 60px;
+  height: 50px;
  margin-right: 20px;
 }
 
@@ -49,7 +49,6 @@ header {
     width: 80%;
     height: 70%;
     padding-top: 10px;
-    padding-left: 15px;
 }
 
 .ingredient {
@@ -60,7 +59,7 @@ header {
   background-color: #f8f0d6;
   border-radius: 50%;
   width:70px;
-  height: 60px;
+  height: 50px;
  margin-right: 20px;
 }
 
@@ -68,7 +67,6 @@ header {
   width: 80%;
   height: 70%;
   padding-top: 10px;
-  padding-left: 15px;
 }
 
 
@@ -88,7 +86,7 @@ img {
     background-color: #C8F2E7;
     border-radius: 50%;
     width:70px;
-    height: 60px;
+    height: 50px;
    margin-right: 20px;
   }
   
@@ -96,7 +94,6 @@ img {
     width: 80%;
     height: 70%;
     padding-top: 10px;
-    padding-left: 15px;
   }
 
   .vet-developed {
@@ -109,7 +106,7 @@ img {
     background-color: #F7CABD;
     border-radius: 50%;
     width:70px;
-    height: 60px;
+    height: 50px;
    margin-right: 20px;
   }
 
@@ -117,7 +114,6 @@ img {
     width: 80%;
     height: 70%;
     padding-top: 10px;
-    padding-left: 15px;
   }
 
   .payment {
