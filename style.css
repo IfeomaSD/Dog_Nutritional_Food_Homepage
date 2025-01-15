@@ -1,0 +1,207 @@
+* {
+  box-sizing: border-box;
+  margin: 5px;
+  padding: 0;
+  font-family: Arial, sans-serif;
+}
+
+body {
+  line-height: 1.6;
+  color: #161723;
+}
+
+h1 { 
+    font-size: 40px; 
+    line-height: 1.1;
+} 
+
+header {
+  line-height: 1.1;
+  text-align: center;
+  color: #161723;
+  padding: 20px;
+  background-color: #ffffff;
+}
+
+.hero-section {
+  display: flex;
+  justify-content:space-between;
+  padding: 20px;
+  gap: 50px;
+  margin: 10px;
+}
+
+.real-food {
+  display: flex;
+  margin-bottom: 60px;
+  margin-top: 40px;
+}
+
+.food {
+  background-color: #dcf9ca;
+  border-radius: 50%;
+  width:70px;
+  height: 60px;
+ margin-right: 20px;
+}
+
+.food > img {
+    width: 80%;
+    height: 70%;
+    padding-top: 10px;
+    padding-left: 15px;
+}
+
+.ingredient {
+  display: flex;
+}
+
+.pet-bowl {
+  background-color: #f8f0d6;
+  border-radius: 50%;
+  width:70px;
+  height: 60px;
+ margin-right: 20px;
+}
+
+.pet-bowl>img {
+  width: 80%;
+  height: 70%;
+  padding-top: 10px;
+  padding-left: 15px;
+}
+
+
+img {
+  width: 25%;
+  height: 50%;
+  align-self: center;
+}
+
+.made-fresh {
+    display: flex;
+    margin-bottom: 60px;
+    margin-top: 40px;
+  }
+
+  .fresh {
+    background-color: #C8F2E7;
+    border-radius: 50%;
+    width:70px;
+    height: 60px;
+   margin-right: 20px;
+  }
+  
+  .fresh>img {
+    width: 80%;
+    height: 70%;
+    padding-top: 10px;
+    padding-left: 15px;
+  }
+
+  .vet-developed {
+    display: flex;
+    margin-bottom: 60px;
+    margin-top: 40px;
+  }
+
+  .developed {
+    background-color: #F7CABD;
+    border-radius: 50%;
+    width:70px;
+    height: 60px;
+   margin-right: 20px;
+  }
+
+  .developed>img {
+    width: 80%;
+    height: 70%;
+    padding-top: 10px;
+    padding-left: 15px;
+  }
+
+  .payment {
+    text-align: center;
+  }
+.cta-btn {
+    text-align: center;
+    width: 50%;
+  background-color: #EE6F4B;
+  color: white;
+  padding: 12px 40px;
+  border: none;
+  cursor: pointer;
+  border-radius: 5px;
+}
+
+
+.shield-logo{
+    width: 16px;
+}
+
+.paypal, .visa, .mastercard, .applepay, .gpay {
+    width : 64px;
+    padding-top: 20px;
+    margin-bottom: 0;
+    padding-bottom: 0;
+}
+
+main {
+    margin-bottom: 100px;
+}
+
+.nutrition-section {
+    display: flex;
+    justify-content: space-evenly;
+  padding: 20px;
+  background-color: #F8F8F8;
+}
+
+.nutrition-section ul h2 {
+    color: #EE6F4B;
+}
+
+.key-points {
+    display: flex;
+    gap: 20px;
+}
+
+.cta-btn_ {
+  background-color: #EE6F4B;
+  color: white;
+  padding: 12px 40px;
+  border: none;
+  cursor: pointer;
+  border-radius: 5px;
+  width: 95%;
+
+}
+
+.furry-friend {
+    width: 50%;
+    height: 570px;
+}
+
+
+.dog-eating {
+    width: 50%;
+    height: 480px;
+}
+
+.health-section {
+  display: flex;
+  padding: 20px;
+  align-items: center;
+  justify-content: space-between;
+}
+
+.prebiotics {
+    display: flex;
+    padding: 20px;
+  align-items: center;
+}
+
+.dog-food {
+    width: 50%;
+    height: 480px;
+}
